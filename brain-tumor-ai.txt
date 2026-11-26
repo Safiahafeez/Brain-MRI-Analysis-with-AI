@@ -1,0 +1,14 @@
+brain-tumor-ai/
+│
+├── .env                  <-- (DO NOT UPLOAD THIS! But keep it on your PC)
+├── .gitignore            <-- (Tells GitHub to ignore .env and huge files)
+├── README.md             <-- (The front page of your GitHub repo)
+├── requirements.txt      <-- (List of libraries)
+├── backend.py            <-- (FastAPI server)
+├── frontend.py           <-- (Streamlit UI)
+├── brain_tumor_model1.h5 <-- (Your trained CNN model)
+│
+├── accuracy_loss.png     <-- (Graph 1)
+├── confusion_matrix.png  <-- (Graph 2)
+├── roc_auc.png           <-- (Graph 3)
+└── results.png           <-- (Graph 4)
