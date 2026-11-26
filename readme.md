@@ -46,7 +46,3 @@ Due to GitHub file size limits, the heavy datasets and the trained model are hos
 
 *(Windows users can just double-click the `run_project.bat` file to do steps 4 and 5 automatically).*
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/YourUsername/brain-tumor-ai.git
-cd brain-tumor-ai
